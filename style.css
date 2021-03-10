@@ -6,7 +6,7 @@
 
 body {
     margin: 1px;
-    background-image: linear-gradient(to right bottom, #000, #222);
+    background: #111;
 }
 
 #text-area {
