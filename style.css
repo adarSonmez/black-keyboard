@@ -70,3 +70,9 @@ body {
 .keyboard-space {
     grid-column: 2 / -2
 }
+
+@media only screen and (max-width: 500px) {
+  .keyboard {
+    height: 40%;
+  }
+}
