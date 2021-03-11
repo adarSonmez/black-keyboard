@@ -12,7 +12,7 @@ body {
 #text-area {
     width: 95%;
     max-width: 620px;
-    height: 44vh;
+    height: 44%;
     position: absolute;
     top: 3vh;
     left: 50%;
@@ -29,7 +29,7 @@ body {
 .keyboard {
     width: 100%;
     max-width: 800px;
-    height: 50vh;
+    height: 50%;
     display: grid;
     position: fixed;
     bottom: 0;
